@@ -72,12 +72,7 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 
 ## Member
 
-<p align="left">
-  <sub>
-    Enthusiasts from the 
-    <a href="https://www.ce.cit.tum.de/air/home/">Chair of Robotics, Artificial Intelligence and Real-time Systems, Technical University of Munich</a>
-  </sub>
-</p>
+<a href="https://www.ce.cit.tum.de/air/home/">Chair of Robotics, Artificial Intelligence and Real-time Systems, Technical University of Munich</a>
 
 ### Supervisor
 
