@@ -1,4 +1,4 @@
-![简体中文](https://www.ce.cit.tum.de/air/people/liguo-zhou/)
+[简体中文](.github/profile/README_zh.md)
 # Intelligent Driving System (Project Introduction)
 
 <p align="center"> <img alt="GitHub release" src="images/Logo.png", width = "400"></p>
