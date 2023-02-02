@@ -1,4 +1,4 @@
-[English](profile/README_zh.md)
+[English](profile/README.md)
 # 自动驾驶系统
 
 ## 简介
