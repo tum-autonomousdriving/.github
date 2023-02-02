@@ -70,7 +70,7 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 </table>
 
 
-## Members
+## Member
 
 <p align="left">
   <sub>
@@ -100,12 +100,6 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 ### Artist
 * **Liu Lian**
 
-### Former Members
+### External Member
 
-* Zhang Chao, *M.Sc.*; Zhang Jingyu; Lin Tianhao, *M.Sc.*; Zhang Hanzhen, *M.Sc.*; Wang Ruining; Meng Jun
-
-### External Members
-
-* Huo Yifan; Ren Peng; Zhang Yujie
-
-
+* Zhang Chao, *M.Sc.*; Zhang Jingyu; Lin Tianhao, *M.Sc.*; Zhang Hanzhen, *M.Sc.*; Wang Ruining; Meng Jun; Huo Yifan; Ren Peng; Zhang Yujie
