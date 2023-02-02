@@ -1,4 +1,4 @@
-[English](profile/README.md)
+[English](https://github.com/tum-autonomousdriving/.github/blob/main/profile/README.md)
 # 自动驾驶系统
 
 ## 简介
