@@ -83,15 +83,13 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 
 * **[Prof. Dr.-Ing. habil. Alois Christian Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/)**
 
-### Project Coordinator
-* **[Zhou Liguo](https://www.ce.cit.tum.de/air/people/liguo-zhou/)**, *M.Sc.*
-
 ### Programmer
+* **[Zhou Liguo](https://www.ce.cit.tum.de/air/people/liguo-zhou/)**, *M.Sc.* - Project Coordinator
 * **Dipl.-Ing. Cao Wei**, *M.Sc.*
+* **Liu Hongshen**
+* **Ma Liang**
 * **[Liu Hao](linkedin.com/in/hao-liu97)**
 * **Song Yinglei**
-* **Ma Liang**
-* **Liu Hongshen**
 * **Li Haichuan**
 * **Cui Chuanlu**
 * **Liu Yang**
