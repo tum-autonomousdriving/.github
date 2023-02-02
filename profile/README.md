@@ -101,5 +101,5 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 * **Liu Lian**
 
 ### External Member
-
-* Zhang Chao, *M.Sc.*; Zhang Jingyu; Lin Tianhao, *M.Sc.*; Zhang Hanzhen, *M.Sc.*; Wang Ruining; Meng Jun; Huo Yifan; Ren Peng; Zhang Yujie
+* **Initial Member**: Zhang Jingyu; Zhang Hanzhen, *M.Sc.*; Meng Jun
+* Zhang Chao, *M.Sc.*; Lin Tianhao, *M.Sc.*; Wang Ruining; Huo Yifan; Ren Peng; Zhang Yujie
