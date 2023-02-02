@@ -1,7 +1,7 @@
 [简体中文](https://github.com/tum-autonomousdriving/.github/blob/main/profile/README_zh.md)
 # Intelligent Driving System (Project Introduction)
 
-<p align="center"> <img alt="GitHub release" src="images/Logo.png", width = "400"></p>
+<p align="center"> <img alt="GitHub release" src="https://github.com/tum-autonomousdriving/.github/blob/main/images/Logo.png", width = "400"></p>
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ The large-scale application of fully autonomous driving technology is the key to
 
 At present, our product is an autonomous driving system that can run in a simulation environment. We developed this simulator and trained autonomous driving algorithms such as environment perception, global/local path planning and decision making based on this simulator. Although this system works well in the simulator, it still needs road tests to verify its performance in the real environment, and then conduct large-scale simulation tests, repeating the cycle, and finally form a safe, reliable and practical autonomous driving system.
 ## Framework
-![image](./images/framework.png)
+![image](https://github.com/tum-autonomousdriving/.github/blob/main/images/framework.png)
 
 ## Functions
 * ### High-definition digital twins of real cities and roads
@@ -23,10 +23,10 @@ Simulate complex and changeable real road scenarios to improve the ability of au
 <table>
   <tr>
     <td vlign="center">
-      <img src="./images/urban.png" alt="Pin popup window">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/urban.png" alt="Pin popup window">
     </td>
     <td vlign="center">
-      <img src="./images/urban2.png" alt="Popup window">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/urban2.png" alt="Popup window">
     </td>
   </tr>
 </table>
@@ -36,10 +36,10 @@ Simulate changes in light and weather to improve the robustness of autonomous dr
 <table>
   <tr>
     <td vlign="center">
-      <img src="./images/light.png" alt="Pin popup window", width ="600">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/light.png" alt="Pin popup window", width ="600">
     </td>
     <td vlign="center">
-      <img src="./images/weather.png" alt="Popup window", width ="600">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/weather.png" alt="Popup window", width ="600">
     </td>
   </tr>
 </table>
@@ -49,10 +49,10 @@ The automatic data annotation function can automatically generate labels for tra
 <table>
   <tr>
     <td vlign="center">
-      <img src="./images/lable.png" alt="Pin popup window">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/lable.png" alt="Pin popup window">
     </td>
     <td vlign="center">
-      <img src="./images/segmentation.png" alt="Popup window">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/segmentation.png" alt="Popup window">
     </td>
   </tr>
 </table>
@@ -62,10 +62,10 @@ Integrated Unity industrial-grade lidar simulation for training and testing 3D o
 <table>
   <tr>
     <td vlign="center">
-      <img src="./images/sim1.png" alt="Pin popup window", width ="600">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/sim1.png" alt="Pin popup window", width ="600">
     </td>
     <td vlign="center">
-      <img src="./images/Sim2.jpg" alt="Popup window", width ="600">
+      <img src="https://github.com/tum-autonomousdriving/.github/blob/main/images/Sim2.jpg" alt="Popup window", width ="600">
     </td>
   </tr>
 </table>
