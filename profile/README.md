@@ -1,4 +1,4 @@
-[简体中文]([profile/README_zh.md](https://github.com/tum-autonomousdriving/.github/blob/main/profile/README_zh.md))
+[简体中文](https://github.com/tum-autonomousdriving/.github/blob/main/profile/README_zh.md)
 # Intelligent Driving System (Project Introduction)
 
 <p align="center"> <img alt="GitHub release" src="images/Logo.png", width = "400"></p>
