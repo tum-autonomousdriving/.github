@@ -1,16 +1,17 @@
 English | [中文](https://github.com/tum-autonomousdriving/.github/blob/main/profile/README_zh.md)
-# Intelligent Driving System (Project Introduction)
+# Autonomous Driving System
 
 <p align="center"> <img alt="GitHub release" src="https://github.com/tum-autonomousdriving/.github/blob/main/images/Logo.png", width = "400"></p>
 
-## Table of Contents
+## Contents
 
-- [Background](#background)
+- [Introduction](#Introduction)
 - [Framework](#framework)
 - [Functions](#functions)
 - [Members](#members)
 
-## Background
+## Introduction
+
 The large-scale application of fully autonomous driving technology is the key to solving traffic congestion and reducing traffic accidents, and it is also an effective way to deal with the shortage of human resources. Commercial fully autonomous driving technology is expected to be deployed in the next five to ten years. However, this technology is currently only in the hands of a very small number of top technology companies. The vast majority of traditional automakers are not good at this technology, although they are eager to obtain this technology. We are developing a fully autonomous driving system that can be shared with traditional automakers, thereby accelerating the large-scale application of fully autonomous driving technology.
 
 At present, our product is an autonomous driving system that can run in a simulation environment. We developed this simulator and trained autonomous driving algorithms such as environment perception, global/local path planning and decision making based on this simulator. Although this system works well in the simulator, it still needs road tests to verify its performance in the real environment, and then conduct large-scale simulation tests, repeating the cycle, and finally form a safe, reliable and practical autonomous driving system.
