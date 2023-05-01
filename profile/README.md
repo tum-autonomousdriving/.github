@@ -24,14 +24,14 @@ At present, our product is an autonomous driving system that can run in a simula
 ### Programmers
 
 * **[Zhou Liguo](https://www.ce.cit.tum.de/air/people/liguo-zhou/)**, *M.Sc.* - Project Coordinator
+* **Gao Yichao**
 * **Liu Hongshen**
 * **Ma Liang**
-* **[Liu Hao](linkedin.com/in/hao-liu97)**
 * **Song Yinglei**
+* **[Liu Hao](linkedin.com/in/hao-liu97)**
 * **Li Haichuan**
 * **Cui Chuanlu**
 * **Liu Yang**
-* **Gao Yichao**
 
 ### Artist
 * **Liu Lian**
