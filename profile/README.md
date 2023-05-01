@@ -29,13 +29,11 @@ At present, our product is an autonomous driving system that can run in a simula
 * **Ma Liang**
 * **Song Yinglei**
 * **[Liu Hao](linkedin.com/in/hao-liu97)**
-* **Li Haichuan**
-* **Cui Chuanlu**
 * **Liu Yang**
 
 ### Artist
 * **Liu Lian**
 
-### External Members
-* Zhang Jingyu; Zhang Hanzhen, *M.Sc.*; Meng Jun
+### Former Members
+* Cao Wei; Zhang Jingyu; Zhang Hanzhen, *M.Sc.*; Meng Jun; Cui Chuanlu; Li Haichuan
 * Zhang Chao, *M.Sc.*; Lin Tianhao, *M.Sc.*; Wang Ruining; Huo Yifan; Ren Peng; Zhang Yujie
