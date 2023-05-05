@@ -34,7 +34,8 @@ At present, our product is an autonomous driving system that can run in a simula
 
 ### Artist
 * **Liu Lian**
-
+<!--
 ### Former Members
 * Dipl. Cao Wei, *M.Sc.*; Zhang Jingyu; Zhang Hanzhen, *M.Sc.*; Meng Jun; Cui Chuanlu; Li Haichuan
 * Zhang Chao, *M.Sc.*; Lin Tianhao, *M.Sc.*; Wang Ruining, *M.Sc.*; Huo Yifan; Ren Peng; Zhang Yujie
+-->
