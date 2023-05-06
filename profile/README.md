@@ -25,7 +25,7 @@ At present, our product is an autonomous driving system that can run in a simula
 
 <table>
     <tr>
-        <td><a href="https://www.ce.cit.tum.de/air/people/liguo-zhou/">Zhou Liguo</a>, M.Sc.</td>
+        <td>周立国 <a href="https://www.ce.cit.tum.de/air/people/liguo-zhou/">Zhou Liguo</a>, M.Sc.</td>
         <td>Gao Yichao</td>
         <td>Liu Hongshen</td>
         <td>Ma Liang</td>
