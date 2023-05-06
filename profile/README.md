@@ -19,23 +19,34 @@ At present, our product is an autonomous driving system that can run in a simula
 
 ### Supervisor
 
-* **[Prof. Dr.-Ing. habil. Alois Christian Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/)**
+**[Prof. Dr.-Ing. habil. Alois Christian Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/)**
 
 ### Programmers
 
-* **[Zhou Liguo](https://www.ce.cit.tum.de/air/people/liguo-zhou/)**, *M.Sc.* - Project Coordinator
-* **Gao Yichao**
-* **Liu Hongshen**
-* **Ma Liang**
-* **Song Yinglei**
-* **[Liu Hao](linkedin.com/in/hao-liu97)**
-* **Liu Yang**
-* **Yu Zhou**
-* **Liu Lian**
-* **Huang Yanliang**
-* **Liu Chang**
-* **Li Zequan**
-* **Yiderigun**
+<table>
+    <tr>
+        <td><a href="https://www.ce.cit.tum.de/air/people/liguo-zhou/">Zhou Liguo</a>, M.Sc.</td>
+        <td>Gao Yichao</td>
+        <td>Liu Hongshen</td>
+        <td>Ma Liang</td>
+        <td>Song Yinglei</td>
+    </tr>
+    <tr>
+        <td>Liu Lian</td>
+        <td><a href="linkedin.com/in/hao-liu97">Liu Hao</a></td>
+        <td>Liu Yang</td>
+        <td>Yu Zhou</td>
+        <td>Huang Yanliang</td>
+    </tr>
+    <tr>
+        <td>Liu Chang</td>
+        <td>Li Zequan</td>
+        <td>Yiderigun</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 <!--
 ### Former Members
 * Dipl. Cao Wei, *M.Sc.*; Zhang Jingyu; Zhang Hanzhen, *M.Sc.*; Meng Jun; Cui Chuanlu; Li Haichuan
