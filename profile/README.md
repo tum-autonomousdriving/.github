@@ -69,6 +69,7 @@ At present, our product is an autonomous driving system that can run in a simula
         <td>Huo Yifan</td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
 </table>
 
