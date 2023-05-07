@@ -53,14 +53,14 @@ At present, our product is an autonomous driving system that can run in a simula
     <tr>
         <td>Zhang Chao, M.Sc.</td>
         <td>Lin Tianhao, M.Sc.</td>
+        <td>Wang Ruining, M.Sc.</td>
         <td>Zhang Jingyu</td>
         <td>Zhang Hanzhen, M.Sc.</td>
-        <td>Dipl. Cao Wei, M.Sc.</td>
     </tr>
     <tr>
+        <td>Dipl. Cao Wei, M.Sc.</td>
         <td>Meng Jun</td>
         <td>Li Haichuan</td>
-        <td>Wang Ruining, M.Sc.</td>
         <td>Cui Chuanlu</td>
         <td>Lu Jinnan</td>
     </tr>
