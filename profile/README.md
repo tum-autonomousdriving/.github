@@ -51,23 +51,22 @@ At present, our product is an autonomous driving system that can run in a simula
 
 <table>
     <tr>
-        <td>Dipl. Cao Wei, M.Sc.</td>
-        <td>Zhang Jingyu</td>
-        <td>Zhang Hanzhen, M.Sc.</td>
-        <td>Meng Jun</td>
-        <td>Li Haichuan</td>
-    </tr>
-    <tr>
         <td>Zhang Chao, M.Sc.</td>
         <td>Lin Tianhao, M.Sc.</td>
-        <td>Wang Ruining, M.Sc.</td>
-        <td>Huo Yifan</td>
-        <td>Ren Peng</td>
+        <td>Zhang Jingyu</td>
+        <td>Zhang Hanzhen, M.Sc.</td>
+        <td>Dipl. Cao Wei, M.Sc.</td>
     </tr>
     <tr>
+        <td>Meng Jun</td>
+        <td>Li Haichuan</td>
+        <td>Wang Ruining, M.Sc.</td>
         <td>Cui Chuanlu</td>
-        <td>Zhang Yujie</td>
-        <td></td>
+        <td>Lu Jinnan</td>
+    </tr>
+    <tr>
+        <td>Ren Peng</td>
+        <td>Huo Yifan</td>
         <td></td>
         <td></td>
     </tr>
