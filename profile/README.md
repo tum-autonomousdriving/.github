@@ -53,7 +53,7 @@ At present, our product is an autonomous driving system that can run in a simula
     <tr>
         <td>Dipl. Cao Wei, M.Sc.</td>
         <td>Zhang Jingyu</td>
-        <td>Zhang Hanzhen, M.Sc</td>
+        <td>Zhang Hanzhen, M.Sc.</td>
         <td>Meng Jun</td>
         <td>Li Haichuan</td>
     </tr>
