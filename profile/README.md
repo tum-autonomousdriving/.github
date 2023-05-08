@@ -21,7 +21,7 @@ At present, our product is an autonomous driving system that can run in a simula
 
 **[Prof. Dr.-Ing. habil. Alois Christian Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/)**
 
-### Programmers
+### Developers
 
 <table>
     <tr>
