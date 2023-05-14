@@ -43,7 +43,7 @@ At present, our product is an autonomous driving system that can run in a simula
         <td>Li Zequan</td>
         <td>Yiderigun</td>
         <td>Raphael Feigl</td>
-        <td></td>
+        <td>Shi Yu</td>
     </tr>
 </table>
 
