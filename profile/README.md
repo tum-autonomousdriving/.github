@@ -60,7 +60,7 @@ At present, our product is an autonomous driving system that can run in a simula
     <tr>
         <td>Dipl. Cao Wei, M.Sc.</td>
         <td>Meng Jun</td>
-        <td>Li Haichuan</td>
+        <td>Li Haichuan, M.Sc.</td>
         <td>Cui Chuanlu</td>
         <td>Lu Jinnan</td>
     </tr>
