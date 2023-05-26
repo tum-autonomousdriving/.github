@@ -33,7 +33,7 @@ At present, our product is an autonomous driving system that can run in a simula
     </tr>
     <tr>
         <td>Liu Lian</td>
-        <td><a href="https://www.linkedin.com/in/hao-liu97">Liu Hao, M.Sc.</a></td>
+        <td><a href="https://www.linkedin.com/in/hao-liu97">Liu Hao</a>, M.Sc.</td>
         <td>Liu Yang, M.Sc.</td>
         <td>Yu Zhou</td>
         <td>Huang Yanliang</td>
